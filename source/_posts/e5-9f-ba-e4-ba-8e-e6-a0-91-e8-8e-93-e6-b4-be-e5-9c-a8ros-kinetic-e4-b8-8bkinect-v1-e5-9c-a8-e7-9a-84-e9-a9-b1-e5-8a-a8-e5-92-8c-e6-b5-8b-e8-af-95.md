@@ -43,7 +43,7 @@ rosrun rqt\_image\_view rqt\_image\_view
 
          0x03：选择深度或RGB话题以显示画面
 
-![](http://oarap.org/wp-content/uploads/2017/03/kinect_freenect_depth_view.jpg) ![](http://oarap.org/wp-content/uploads/2017/03/kinect_freenect_rgb_view.jpg)
+![](https://assets.bookshiyi.com/photo/2017/03/kinect_freenect_depth_view.jpg) ![](https://assets.bookshiyi.com/photo/2017/03/kinect_freenect_rgb_view.jpg)
 
 ps：3D点云形式的查看
 

@@ -15,15 +15,15 @@ date: 2014-03-01 20:16:22
 
         由于比较匆忙，只剩下几张照片和源代码（其实是实在没什么可以说的，功能太简单了）。
 
-        这个是我自学单片机的第一个大作业，也是走进电子世界大门的第一步，虽然它功能不多，系统简单，却是我初心的起点。   ![](https://bookshiyi.oss-cn-qingdao.aliyuncs.com/photo/2014/03/89c51_MQ2_ir_buzz_1.jpg-w800_wm)![](https://bookshiyi.oss-cn-qingdao.aliyuncs.com/photo/2014/03/89c51_MQ2_ir_buzz_2.jpg-w800_wm)
+        这个是我自学单片机的第一个大作业，也是走进电子世界大门的第一步，虽然它功能不多，系统简单，却是我初心的起点。   ![](https://assets.bookshiyi.com/photo/2014/03/89c51_MQ2_ir_buzz_1.jpg)![](https://assets.bookshiyi.com/photo/2014/03/89c51_MQ2_ir_buzz_2.jpg)
 
-![](https://bookshiyi.oss-cn-qingdao.aliyuncs.com/photo/2014/03/89c51_MQ2_ir_buzz_3.jpg-w800_wm)
+![](https://assets.bookshiyi.com/photo/2014/03/89c51_MQ2_ir_buzz_3.jpg)
 
-![](https://bookshiyi.oss-cn-qingdao.aliyuncs.com/photo/2014/03/89c51_MQ2_ir_buzz_4.jpg-w800_wm)
+![](https://assets.bookshiyi.com/photo/2014/03/89c51_MQ2_ir_buzz_4.jpg)
 
-![](https://bookshiyi.oss-cn-qingdao.aliyuncs.com/photo/2014/03/89c51_MQ2_ir_buzz_5.jpg-w800_wm)
+![](https://assets.bookshiyi.com/photo/2014/03/89c51_MQ2_ir_buzz_5.jpg)
 
-![](https://bookshiyi.oss-cn-qingdao.aliyuncs.com/photo/2014/03/89c51_MQ2_ir_buzz_6.jpg-w800_wm)![](https://bookshiyi.oss-cn-qingdao.aliyuncs.com/photo/2014/03/89c51_MQ2_ir_buzz_7.jpg-w800_wm)![](https://bookshiyi.oss-cn-qingdao.aliyuncs.com/photo/2014/03/89c51_MQ2_ir_buzz_7.jpg-w800_wm)
+![](https://assets.bookshiyi.com/photo/2014/03/89c51_MQ2_ir_buzz_6.jpg)![](https://assets.bookshiyi.com/photo/2014/03/89c51_MQ2_ir_buzz_7.jpg)![](https://assets.bookshiyi.com/photo/2014/03/89c51_MQ2_ir_buzz_7.jpg)
 
  
 

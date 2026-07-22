@@ -77,13 +77,13 @@ date: 2016-01-19 18:37:53
 
 ##### 2.2硬件框图
 
-![图片1](http://oarap.org/wp-content/uploads/2016/03/图片1.png)
+![图片1](https://assets.bookshiyi.com/photo/2016/03/图片1.png)
 
 图1 系统硬件框图
 
 ##### 2.3软件方案
 
-![图片2](http://oarap.org/wp-content/uploads/2016/03/图片2-1024x639.png)
+![图片2](https://assets.bookshiyi.com/photo/2016/03/图片2-1024x639.png)
 
 图2 程序流程图
 
@@ -103,7 +103,7 @@ date: 2016-01-19 18:37:53
 
         该部分被固定在前面板，通过打孔的方式从机壳的内部伸出来。为了提高系统的可靠性，所有的旋钮、按键、插口都使用了外卡螺母的设计，这样可以避免人机接口因为经常被触碰到而产生松动的现象。在内部与主控板之间使用排线连接，避免了走线凌乱的现象。
 
-![图片3](http://oarap.org/wp-content/uploads/2016/03/图片3-1.jpg)
+![图片3](https://assets.bookshiyi.com/photo/2016/03/图片3-1.jpg)
 
 图3 机壳结构设计
 
@@ -113,41 +113,41 @@ date: 2016-01-19 18:37:53
 
 前面板的设计与整个机身配合非常协调和有序，却又不显得十分呆板，简约、灵动的设计风格，十分易用的界面，为人机交互和用户体验打下了良好基础。
 
-![图片4](http://oarap.org/wp-content/uploads/2016/03/图片4.png)
+![图片4](https://assets.bookshiyi.com/photo/2016/03/图片4.png)
 
 图4 2D渲染图
 
-![图片5](http://oarap.org/wp-content/uploads/2016/03/图片5-1.jpg)
+![图片5](https://assets.bookshiyi.com/photo/2016/03/图片5-1.jpg)
 
 图5 实物图
 
 * * *
 
-#### 3.实际效果 ![图片6](http://oarap.org/wp-content/uploads/2016/03/图片6-1.jpg)
+#### 3.实际效果 ![图片6](https://assets.bookshiyi.com/photo/2016/03/图片6-1.jpg)
 
 图6 100HZ正弦波输出
 
-#### ![图片7](http://oarap.org/wp-content/uploads/2016/03/图片7-1.jpg)
+#### ![图片7](https://assets.bookshiyi.com/photo/2016/03/图片7-1.jpg)
 
 图7 10Khz 方波输出
 
-#### ![图片8](http://oarap.org/wp-content/uploads/2016/03/图片8-1.jpg)
+#### ![图片8](https://assets.bookshiyi.com/photo/2016/03/图片8-1.jpg)
 
 图8 76hz 锯齿波输出
 
-#### ![图片9](http://oarap.org/wp-content/uploads/2016/03/图片9-1.jpg)
+#### ![图片9](https://assets.bookshiyi.com/photo/2016/03/图片9-1.jpg)
 
 图9 76hz三角波输出
 
-#### ![图片10](http://oarap.org/wp-content/uploads/2016/03/图片10.png)
+#### ![图片10](https://assets.bookshiyi.com/photo/2016/03/图片10.png)
 
 图10 460hz窄脉冲输出
 
-#### ![图片11](http://oarap.org/wp-content/uploads/2016/03/图片11.png)
+#### ![图片11](https://assets.bookshiyi.com/photo/2016/03/图片11.png)
 
 图11 100hz单极性正弦波输出
 
-#### ![图片12](http://oarap.org/wp-content/uploads/2016/03/图片12.png)
+#### ![图片12](https://assets.bookshiyi.com/photo/2016/03/图片12.png)
 
 图12 在Vpp=230mv情况下100hz单极性三角波输出
 
@@ -175,9 +175,9 @@ date: 2016-01-19 18:37:53
 
   ▼十分简陋的第一版信号发生器，主要的特点是左下角的摇杆，点按是波形切换，上下推实现幅值大小的设置，左右腿实现频率大小的调整。
 
-#### ![IMG_20150707_015430](http://oarap.org/wp-content/uploads/2016/03/IMG_20150707_015430-1024x768.jpg)
+#### ![IMG_20150707_015430](https://assets.bookshiyi.com/photo/2016/03/IMG_20150707_015430-1024x768.jpg)
 
-▼第二版的信号发生器 ![signal_generator_2](http://oarap.org/wp-content/uploads/2016/01/signal_generator_2.jpg)
+▼第二版的信号发生器 ![signal_generator_2](https://assets.bookshiyi.com/photo/2016/01/signal_generator_2.jpg)
 
 * * *
 

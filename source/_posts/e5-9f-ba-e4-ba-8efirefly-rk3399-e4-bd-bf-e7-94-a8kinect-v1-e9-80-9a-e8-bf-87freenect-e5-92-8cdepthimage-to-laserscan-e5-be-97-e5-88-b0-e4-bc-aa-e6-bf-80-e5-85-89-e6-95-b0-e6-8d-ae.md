@@ -26,7 +26,7 @@ date: 2017-04-05 15:48:23
 
         0x00 开始前请确保你的Kinect v1通过USB2.0与ROS计算机相连接，并且Kinect v1的电源功率足够；
 
-        0x01 确保已经安装**freenect**（如果没安装请移步[freenect安装教程](http://oarap.org/archives/1571)）；
+        0x01 确保已经安装**freenect**（如果没安装请移步[freenect安装教程](https://assets.bookshiyi.com/archives/1571)）；
 
         0x02 安装**depthimage\_to\_laserscan：**
 
@@ -55,7 +55,7 @@ date: 2017-04-05 15:48:23
 
         应该得到类似下图的状态
 
-![](http://oarap.org/wp-content/uploads/2017/04/fake_laser_rviz_preview.png)
+![](https://assets.bookshiyi.com/photo/2017/04/fake_laser_rviz_preview.png)
 
 * * *
 
@@ -67,7 +67,7 @@ date: 2017-04-05 15:48:23
 
         根据下图红色标注的位置辅助你判断问题所在：
 
-![](http://oarap.org/wp-content/uploads/2017/04/rosnode_info_depthimage_to_laserscan.jpg)
+![](https://assets.bookshiyi.com/photo/2017/04/rosnode_info_depthimage_to_laserscan.jpg)
 
 * * *
 
@@ -83,7 +83,7 @@ date: 2017-04-05 15:48:23
 
 最后感谢FireFly团队提供的**RK3399**高性能、奢侈配置的开发板(点击图片了解详情)：
 
-[![](http://oarap.org/wp-content/uploads/2017/04/firefly_rk3399_preview.png)](http://www.t-firefly.com/zh/firenow/Firefly-rk3399/)
+[![](https://assets.bookshiyi.com/photo/2017/04/firefly_rk3399_preview.png)](http://www.t-firefly.com/zh/firenow/Firefly-rk3399/)
 
 * * *
 

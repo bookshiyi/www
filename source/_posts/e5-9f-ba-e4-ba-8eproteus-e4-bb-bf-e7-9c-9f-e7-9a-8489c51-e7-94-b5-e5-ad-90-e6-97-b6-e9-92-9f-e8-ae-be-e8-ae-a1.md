@@ -67,19 +67,19 @@ date: 2015-12-02 16:21:59
 3.硬件框图
 ------
 
-![图片1](http://oarap.org/wp-content/uploads/2016/02/图片1-2.png)
+![图片1](https://assets.bookshiyi.com/photo/2016/02/图片1-2.png)
 -------------------------------------------------------------
 
 4.软件流程图
 -------
 
-![图片2](http://oarap.org/wp-content/uploads/2016/02/图片2-3.png)
+![图片2](https://assets.bookshiyi.com/photo/2016/02/图片2-3.png)
 -------------------------------------------------------------
 
 5.仿真效果
 ------
 
-![图片3](http://oarap.org/wp-content/uploads/2016/02/图片3-3.png)
+![图片3](https://assets.bookshiyi.com/photo/2016/02/图片3-3.png)
 -------------------------------------------------------------
 
-源代码+原理图下载链接：[【8051单片机】基于Protues仿真的电子时钟设计.rar](http://oarap.org/wp-content/uploads/2016/02/【8051单片机】基于Protues仿真的电子时钟设计.rar)
+源代码+原理图下载链接：[【8051单片机】基于Protues仿真的电子时钟设计.rar](https://assets.bookshiyi.com/photo/2016/02/【8051单片机】基于Protues仿真的电子时钟设计.rar)

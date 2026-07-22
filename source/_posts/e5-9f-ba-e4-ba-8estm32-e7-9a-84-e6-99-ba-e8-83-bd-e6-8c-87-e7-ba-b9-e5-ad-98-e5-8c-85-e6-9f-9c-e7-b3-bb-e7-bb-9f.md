@@ -16,7 +16,7 @@ categories:
 date: 2017-05-23 23:28:13
 ---
 
-![](http://oss.bookshiyi.com/photo/project_album/15.jpg-large) ![](http://oarap.org/wp-content/uploads/2017/05/stm32_finger_box_hardware.png)   **遗憾与骄傲**：
+![](https://assets.bookshiyi.com/photo/project_album/15.jpg) ![](https://assets.bookshiyi.com/photo/2017/05/stm32_finger_box_hardware.png)   **遗憾与骄傲**：
 
 * * *
 

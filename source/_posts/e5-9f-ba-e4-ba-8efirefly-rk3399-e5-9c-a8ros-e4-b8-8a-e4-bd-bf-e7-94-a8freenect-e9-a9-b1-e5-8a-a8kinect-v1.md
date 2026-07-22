@@ -34,7 +34,7 @@ $rospack profile
 
         0x02 运行**lsusb**后能看到三个设备：
 
-![](http://oarap.org/wp-content/uploads/2017/04/kinect_lsusb.jpg)
+![](https://assets.bookshiyi.com/photo/2017/04/kinect_lsusb.jpg)
 
         0x03 运行**freenect**节点
 
@@ -68,6 +68,6 @@ $rosrun freenect\_camera freenect\_node
 
         最后感谢FireFly团队提供的**RK3399**高性能、奢侈配置的开发板(点击图片了解详情)：
 
-[![](http://oarap.org/wp-content/uploads/2017/04/firefly_rk3399_preview.png)](http://www.t-firefly.com/zh/firenow/Firefly-rk3399/)
+[![](https://assets.bookshiyi.com/photo/2017/04/firefly_rk3399_preview.png)](http://www.t-firefly.com/zh/firenow/Firefly-rk3399/)
 
 * * *
