@@ -17,7 +17,7 @@ date: 2017-04-21 09:54:46
 
         ROS机器人制作指南（更新中）：[http://bookshiyi.com/robotics/ros\_robot\_guide](http://bookshiyi.com/robotics/ros_robot_guide)
 
-        **论文下载**：[本科毕业论文_基于ROS和RGB-D传感器的SLAM智能机器人.pdf](https://assets.bookshiyi.com/doc/%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87_%E5%9F%BA%E4%BA%8EROS%E5%92%8CRGB-D%E4%BC%A0%E6%84%9F%E5%99%A8%E7%9A%84SLAM%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA_bookshiyi_com.pdf)（可右键另存为）
+        **论文下载**：[本科毕业论文_基于ROS和RGB-D传感器的SLAM智能机器人.pdf](https://assets.bookshiyi.com/docs/%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87_%E5%9F%BA%E4%BA%8EROS%E5%92%8CRGB-D%E4%BC%A0%E6%84%9F%E5%99%A8%E7%9A%84SLAM%E6%99%BA%E8%83%BD%E6%9C%BA%E5%99%A8%E4%BA%BA_bookshiyi_com.pdf)（可右键另存为）
 
         **ROS源码**：[https://github.com/bookshiyi/robot_ros](https://github.com/bookshiyi/robot_ros)
 
