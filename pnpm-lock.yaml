@@ -44,6 +44,12 @@ importers:
       hexo-server:
         specifier: ^3.0.0
         version: 3.0.0
+      hexo-theme-next:
+        specifier: ^8.28.0
+        version: 8.28.0
+      hexo-util:
+        specifier: ^4.0.0
+        version: 4.0.0
 
 packages:
 
@@ -1172,6 +1178,9 @@ packages:
   hexo-server@3.0.0:
     resolution: {integrity: sha512-u4s0ty9Aew6jV+a9oMrXBwhrRpUQ0U8PWM/88a5aHgDru58VY81mVrxOFxs788NAsWQ8OvsJtF5m7mnXoRnSIA==}
     engines: {node: '>=12.13.0'}
+
+  hexo-theme-next@8.28.0:
+    resolution: {integrity: sha512-KqXcP2NI0hxhTf2SntYKjf1VgurjnYi8IDMErOvAfbiMlO+0jRk+40cwt55lgqeJpRK61jxY3WYsgTuK0vR7KA==}
 
   hexo-util@0.1.7:
     resolution: {integrity: sha512-oEoUVaobYU2vYYFSpB6KlGuB8s6Aa4wmRjEkQFHSvAmZemT7GSEERJySUZwzD6ulH5o09YM/vkJWPRv/Zz4SVQ==}
@@ -3992,6 +4001,8 @@ snapshots:
       serve-static: 1.16.3
     transitivePeerDependencies:
       - supports-color
+
+  hexo-theme-next@8.28.0: {}
 
   hexo-util@0.1.7:
     dependencies:

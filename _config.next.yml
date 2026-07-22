@@ -1,0 +1,72 @@
+# ===============================================================
+# NexT Theme Configuration
+# ===============================================================
+
+# Scheme
+scheme: Gemini
+
+# Dark Mode
+darkmode: true
+
+# Sidebar
+sidebar:
+  position: left
+  display: post
+  offset: 12
+
+# Back to top
+back2top:
+  enable: true
+  sidebar: true
+  scrollpercent: true
+
+# Avatar
+avatar:
+  url: /images/avatar.gif
+  rounded: true
+
+# Footer
+footer:
+  since: 2016
+  icon:
+    name: fa fa-user
+    animated: false
+  copyright: book诗意
+  powered: true
+  beian:
+    enable: true
+    icp: 辽ICP备16002243号-2
+
+# GitHub Banner (corner ribbon)
+github_banner:
+  enable: true
+  permalink: https://github.com/bookshiyi
+
+# Motion
+motion:
+  enable: true
+  async: false
+  transition:
+    post_block: fadeIn
+    post_header: slideDownIn
+    post_body: slideDownIn
+    coll_header: slideLeftIn
+    sidebar: slideUpIn
+
+# Local Search
+local_search:
+  enable: true
+  trigger: auto
+  top_n_per_article: 1
+
+# Scroll percent
+scrollpercent: true
+
+# Bookmark
+bookmark:
+  enable: false
+
+# Copy Code
+codeblock:
+  copy_button:
+    enable: false
