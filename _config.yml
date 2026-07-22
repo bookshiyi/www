@@ -84,3 +84,8 @@ prism_plus:
   enable: true
   preset: base
   line_number: true
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
+

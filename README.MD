@@ -1,19 +1,33 @@
 # book诗意
 
-* master 分支
-    
-    hexo编译生成的静态网页
+个人博客，基于 Hexo + NexT 主题。
 
-* hexo 分支
+## 技术栈
 
-    文章源码及开发环境
+- **框架**: [Hexo](https://hexo.io) 8
+- **主题**: [NexT](https://theme-next.js.org) 8.28
+- **包管理**: pnpm 11
+- **部署**: Cloudflare Pages
+- **图片**: Cloudflare R2（`assets.bookshiyi.com`）
 
-    * 目录结构
-        * `themes/next`(submodule) 主题
-        * `source` 文档源码
-        * `pulic` 编译后的静态网页 
-    
-    * 环境部署
-        * https://hexo.io/zh-cn/docs/index.html
-        * 安装管理插件 ``` npm install --save hexo-admin ```,其地址为 http://localhost:4000/admin (本地)
-        
+## 本地开发
+
+```bash
+pnpm install
+pnpm run build    # 生成静态文件
+pnpm run clean    # 清理生成文件
+```
+
+## 目录结构
+
+```
+source/_posts/     # 文章 Markdown 源文件
+source/index/      # 主页
+source/project/    # 项目页
+_config.yml        # Hexo 配置
+_config.next.yml   # NexT 主题配置
+```
+
+## 部署
+
+推送 `main` 分支到 GitHub，Cloudflare Pages 自动构建部署。

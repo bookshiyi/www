@@ -20,6 +20,14 @@ back2top:
   sidebar: true
   scrollpercent: true
 
+# Reading progress bar
+reading_progress:
+  enable: true
+  start_at: left
+  position: top
+  color: "#37c6c0"
+  height: 3px
+
 # Avatar
 avatar:
   url: /images/avatar.gif
@@ -51,7 +59,7 @@ motion:
     post_header: slideDownIn
     post_body: slideDownIn
     coll_header: slideLeftIn
-    sidebar: slideUpIn
+    sidebar: fadeInUp
 
 # Local Search
 local_search:
@@ -59,14 +67,41 @@ local_search:
   trigger: auto
   top_n_per_article: 1
 
-# Scroll percent
-scrollpercent: true
-
 # Bookmark
 bookmark:
   enable: false
 
-# Copy Code
+# Code block
 codeblock:
+  theme:
+    light: default
+    dark: stackoverflow-dark
   copy_button:
-    enable: false
+    enable: true
+    style: flat
+  language: true
+
+# Image Lazyload
+lazyload: true
+
+# Image Zoom
+mediumzoom: true
+
+# Minify (remove unused files)
+minify: true
+
+# Related Posts
+related_posts:
+  enable: true
+  icon: fa fa-signs-post
+
+# Post navigation
+post_navigation: left
+
+# Tags Cloud (for tags page)
+tagcloud:
+  min: 12
+  max: 30
+  amount: 200
+  orderby: name
+  order: 1
