@@ -29,6 +29,11 @@ Github地址：[http://github.com/oarap-org/smartbox_stm32](http://github.com/oa
 
 #### 展示视频：
 
+<video controls preload="metadata" style="width: 100%; max-width: 800px;">
+  <source src="https://assets.bookshiyi.com/video/%E5%9F%BA%E4%BA%8ESTM32%E7%9A%84%E6%A0%A1%E5%9B%AD%E6%99%BA%E8%83%BD%E9%80%81%E9%A4%90%E7%B3%BB%E7%BB%9F_%E8%B6%85%E6%B8%85.mp4" type="video/mp4">
+</video>
+
+
 或
 
 ### **[点我观看视频](http://v.youku.com/v_show/id_XMTYxODAxMjI2NA==.html)**

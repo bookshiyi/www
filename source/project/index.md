@@ -26,7 +26,11 @@ date: 2016-02-19 19:26:09
     
     *   [2017-04 基于ROS和Kinect的激光SLAM系统](http://bookshiyi.com/archives/1858)
 
-[![](https://assets.bookshiyi.com/photo/project_album/14.jpg)](http://bookshiyi.com/archives/1858) https://assets.bookshiyi.com/video/%E5%9F%BA%E4%BA%8EROS%E5%92%8CKinect%E7%9A%84%E6%BF%80%E5%85%89SLAM\_oarap\_org.mp4  
+[![](https://assets.bookshiyi.com/photo/project_album/14.jpg)](http://bookshiyi.com/archives/1858)
+
+<video controls preload="metadata" style="width: 100%; max-width: 800px;">
+  <source src="https://assets.bookshiyi.com/video/%E5%9F%BA%E4%BA%8EROS%E5%92%8CKinect%E7%9A%84%E6%BF%80%E5%85%89SLAM_bookshiyi_com.mp4" type="video/mp4">
+</video>
 
 * * *
 

@@ -31,7 +31,9 @@ date: 2017-04-21 09:54:46
 
 * * *
 
-[演示视频](https://assets.bookshiyi.com/video/%E5%9F%BA%E4%BA%8EROS%E5%92%8CKinect%E7%9A%84%E6%BF%80%E5%85%89SLAM_bookshiyi_com.mp4)
+<video controls preload="metadata" style="width: 100%; max-width: 800px;">
+  <source src="https://assets.bookshiyi.com/video/%E5%9F%BA%E4%BA%8EROS%E5%92%8CKinect%E7%9A%84%E6%BF%80%E5%85%89SLAM_bookshiyi_com.mp4" type="video/mp4">
+</video>
 
 #### **作品实拍**
 
