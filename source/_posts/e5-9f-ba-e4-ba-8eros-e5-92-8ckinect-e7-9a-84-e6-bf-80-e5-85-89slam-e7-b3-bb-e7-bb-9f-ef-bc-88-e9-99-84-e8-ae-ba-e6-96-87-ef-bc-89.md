@@ -31,7 +31,7 @@ date: 2017-04-21 09:54:46
 
 * * *
 
-\[embed\]https://assets.bookshiyi.com/video/%E5%9F%BA%E4%BA%8EROS%E5%92%8CKinect%E7%9A%84%E6%BF%80%E5%85%89SLAM\_oarap\_org.mp4\[/embed\]
+[演示视频](https://assets.bookshiyi.com/video/%E5%9F%BA%E4%BA%8EROS%E5%92%8CKinect%E7%9A%84%E6%BF%80%E5%85%89SLAM_bookshiyi_com.mp4)
 
 #### **作品实拍**
 
