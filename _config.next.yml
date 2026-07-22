@@ -8,6 +8,17 @@ scheme: Gemini
 # Dark Mode
 darkmode: true
 
+# Menu
+menu:
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
+
+menu_settings:
+  icons: true
+  badges: false
+
 # Sidebar
 sidebar:
   position: left
@@ -50,6 +61,10 @@ github_banner:
   enable: true
   permalink: https://github.com/bookshiyi
 
+# Social Links
+social:
+  GitHub: https://github.com/bookshiyi || fab fa-github
+
 # Motion
 motion:
   enable: true
@@ -87,7 +102,7 @@ lazyload: true
 # Image Zoom
 mediumzoom: true
 
-# Minify (remove unused files)
+# Minify
 minify: true
 
 # Related Posts
@@ -98,10 +113,40 @@ related_posts:
 # Post navigation
 post_navigation: left
 
-# Tags Cloud (for tags page)
+# Tags Cloud
 tagcloud:
   min: 12
   max: 30
   amount: 200
   orderby: name
   order: 1
+
+# Pjax (smooth navigation)
+pjax: true
+
+# Font
+font:
+  enable: true
+  host: https://fonts.googleapis.com
+  global:
+    external: true
+    family: Noto Sans SC
+    size:
+  codes:
+    external: true
+    family: JetBrains Mono
+
+# Symbols count & reading time
+symbols_count_time:
+  separated_meta: true
+  item_text_total: true
+
+# Busuanzi visitor analytics
+busuanzi_count:
+  enable: true
+  total_visitors: true
+  total_visitors_icon: fa fa-user
+  total_views: true
+  total_views_icon: fa fa-eye
+  post_views: true
+  post_views_icon: far fa-eye
