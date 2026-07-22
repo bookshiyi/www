@@ -1,7 +1,5 @@
 ---
 title: 档案与新农合
-url: 2142.html
-id: 2142
 comments: false
 date: 2017-12-27 21:42:39
 ---

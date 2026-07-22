@@ -19,7 +19,7 @@ categories:
 date: 2016-06-13 10:53:54
 ---
 
-Github地址：[http://github.com/oarap-org/smartbox_stm32](http://github.com/oarap-org/smartbox_stm32)
+Github地址：[http://github.com/bookshiyi/smartbox_stm32](http://github.com/bookshiyi/smartbox_stm32)
 
 硬件原理图：[smartbox rev1.4](https://assets.bookshiyi.com/file/2016/06/smartbox-rev1.4.pdf)   （已经在中国矿业大学组装完成进行样机测试）
 

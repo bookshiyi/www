@@ -1,7 +1,5 @@
 ---
 title: 项目
-url: 68.html
-id: 68
 comments: false
 date: 2016-02-19 19:26:09
 ---
