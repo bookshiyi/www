@@ -7,8 +7,6 @@ tags:
   - rgbd
   - rk3399
   - ROS
-url: 1637.html
-id: 1637
 comments: false
 categories:
   - Linux

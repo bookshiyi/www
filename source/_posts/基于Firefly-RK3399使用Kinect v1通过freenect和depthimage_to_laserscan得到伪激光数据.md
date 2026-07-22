@@ -6,8 +6,6 @@ tags:
   - kinect
   - lasersacn
   - ROS
-url: 1669.html
-id: 1669
 comments: false
 categories:
   - Linux

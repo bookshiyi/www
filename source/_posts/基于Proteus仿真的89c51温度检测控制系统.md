@@ -5,8 +5,6 @@ tags:
   - ds18b20
   - Proteus
   - 温度检测
-url: 200.html
-id: 200
 comments: false
 categories:
   - MSC-8051

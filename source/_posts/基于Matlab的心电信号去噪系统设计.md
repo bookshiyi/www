@@ -7,8 +7,6 @@ tags:
   - 小波去噪
   - 心电信号
   - 数字信号处理
-url: 124.html
-id: 124
 comments: false
 categories:
   - 数字信号处理

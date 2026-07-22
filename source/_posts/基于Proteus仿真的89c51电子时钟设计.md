@@ -6,8 +6,6 @@ tags:
   - 单片机
   - 数码管
   - 电子时钟
-url: 194.html
-id: 194
 comments: false
 categories:
   - MSC-8051

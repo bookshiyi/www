@@ -5,8 +5,6 @@ tags:
   - ROS
   - slam
   - 激光
-url: 1858.html
-id: 1858
 comments: false
 categories:
   - ROS机器人操作系统

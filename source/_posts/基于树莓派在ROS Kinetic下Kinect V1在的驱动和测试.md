@@ -9,8 +9,6 @@ tags:
   - Ubuntu
   - 树莓派
   - 深度传感器
-url: 1571.html
-id: 1571
 comments: false
 categories:
   - Linux

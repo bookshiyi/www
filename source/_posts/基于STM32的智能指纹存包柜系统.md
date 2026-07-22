@@ -6,8 +6,6 @@ tags:
   - 嵌入式
   - 指纹
   - 矩阵键盘
-url: 2024.html
-id: 2024
 comments: false
 categories:
   - STM32

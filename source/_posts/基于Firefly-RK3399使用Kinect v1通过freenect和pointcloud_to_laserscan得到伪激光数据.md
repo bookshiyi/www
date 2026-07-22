@@ -10,8 +10,6 @@ tags:
   - rk3399
   - 深度
   - 点云
-url: 1723.html
-id: 1723
 comments: false
 categories:
   - Linux

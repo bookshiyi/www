@@ -9,8 +9,6 @@ tags:
   - 结构体
   - 迪文
   - 验证码
-url: 926.html
-id: 926
 comments: false
 categories:
   - STM32
